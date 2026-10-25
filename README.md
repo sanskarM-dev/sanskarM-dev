@@ -1,26 +1,14 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,45:071A2C,100:073B4C&height=170&section=header&text=SANSKAR%20MANDEKAR&fontSize=38&fontColor=00F5FF&fontAlignY=46&desc=CODE.%20CREATE.%20EVOLVE.&descSize=14&descColor=9CAEFF&descAlignY=72&animation=fadeIn" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=180&pause=900&color=00F5FF&center=true&vCenter=true&width=950&height=90&lines=SANSKAR+MANDEKAR"
+  alt="Sanskar Mandekar typing animation"
+/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%3E+Initializing+developer+environment...;%3E+Think+deeply.+Build+boldly.;%3E+Turning+ideas+into+reality.;%3E+Always+learning.+Always+building." alt="Animated developer terminal" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CREATIVE%20MIND-07111F?style=for-the-badge&labelColor=07111F&color=00F5FF" />
-<img src="https://img.shields.io/badge/BUILDER-07111F?style=for-the-badge&labelColor=07111F&color=8B9DFF" />
-<img src="https://img.shields.io/badge/IN%20PROGRESS-07111F?style=for-the-badge&labelColor=07111F&color=00D6A3" />
-
-<br/><br/>
-
-<a href="https://github.com/sanskarM-dev">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=07111F" />
-</a>
-<a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=100&pause=1800&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=CODE.+CREATE.+EVOLVE."
+  alt="Code. Create. Evolve. typing animation"
+/>
 
 </div>
 
