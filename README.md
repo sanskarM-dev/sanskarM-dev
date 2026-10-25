@@ -1,16 +1,18 @@
+
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=180&pause=900&color=00F5FF&center=true&vCenter=true&width=950&height=90&lines=SANSKAR+MANDEKAR"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=400&pause=1800&color=00F5FF&center=true&vCenter=true&width=950&height=90&lines=SANSKAR+MANDEKAR"
   alt="Sanskar Mandekar typing animation"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=100&pause=1800&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=CODE.+CREATE.+EVOLVE."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=250&pause=2500&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=CODE.+CREATE.+EVOLVE."
   alt="Code. Create. Evolve. typing animation"
 />
 
 </div>
+
 
 ---
 
