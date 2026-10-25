@@ -1,81 +1,89 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=%3E+Sanskar+Mandekar;%3E+Initializing+developer+environment...;%3E+Building+ideas+into+reality.;%3E+Think.+Code.+Ship." alt="Animated terminal introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,45:071A2C,100:073B4C&height=170&section=header&text=SANSKAR%20MANDEKAR&fontSize=38&fontColor=00F5FF&fontAlignY=46&desc=CODE.%20CREATE.%20EVOLVE.&descSize=14&descColor=9CAEFF&descAlignY=72&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:073B4C,100:00F7FF&height=3&section=header" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%3E+Initializing+developer+environment...;%3E+Think+deeply.+Build+boldly.;%3E+Turning+ideas+into+reality.;%3E+Always+learning.+Always+building." alt="Animated developer terminal" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREATIVE%20MIND-07111F?style=for-the-badge&labelColor=07111F&color=00F5FF" />
+<img src="https://img.shields.io/badge/BUILDER-07111F?style=for-the-badge&labelColor=07111F&color=8B9DFF" />
+<img src="https://img.shields.io/badge/IN%20PROGRESS-07111F?style=for-the-badge&labelColor=07111F&color=00D6A3" />
+
+<br/><br/>
+
+<a href="https://github.com/sanskarM-dev">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=07111F" />
+</a>
+<a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  SYSTEM: SANSKAR-DEV                                     │
-│  STATUS: ONLINE                                          │
-│                                                          │
-│  > whoami                                                │
-│  Sanskar Mandekar                                        │
-│                                                          │
-│  > focus                                                 │
-│  Software Development | DSA | Full Stack | Applied AI    │
-│                                                          │
-│  > mission                                               │
-│  Build useful things. Solve real problems. Keep shipping.│
-└──────────────────────────────────────────────────────────┘
-```
+---
 
-## `01 / ABOUT`
+### `01` / THE MINDSET
 
-I'm a developer focused on turning ideas into practical software.
+I'm interested in building things, solving problems, and understanding the technology behind the tools we use every day.
 
-- Building full-stack applications and exploring AI integrations.
-- Practicing data structures and algorithms using C++.
-- Exploring modern web technologies and backend development.
-- Interested in open source, scalable applications, and solving real-world problems.
+I enjoy exploring new concepts, experimenting with code, and turning what I learn into practical skills.
 
-## `02 / TECH STACK`
+<details>
+<summary><b> $ cat /currently_learning.txt</b></summary>
+<br/>
+
+- Data structures and algorithms with C++
+- Full-stack web development
+- Backend engineering
+- Practical AI integrations
+- Software design and problem-solving
+
+</details>
+
+### `02` / THE TOOLKIT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,tailwind,bootstrap,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode&theme=dark&perline=8" />
 
 </div>
 
-## `03 / GITHUB METRICS`
+### `03` / THE PHILOSOPHY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanskarM-dev&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+**Build with intent.**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarM-dev&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
+**Debug with patience.**
 
-</div>
-
-## `04 / CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarM-dev&bg_color=050816&color=00F7FF&line=00D9FF&point=FFFFFF&area=true&area_color=073B4C&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+**Improve with every iteration.**
 
 </div>
 
-## `05 / CONNECT`
+### `04` / ESTABLISH CONNECTION
 
 <div align="center">
 
 <a href="https://github.com/sanskarM-dev">
-  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-sanskarM--dev-07111F?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
+
 <a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
-  <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=8B9DFF" />
 </a>
+
 <a href="mailto:mandekarsanskar062@gmail.com">
-  <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-07111F?style=for-the-badge&logo=gmail&logoColor=00D6A3" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:050816&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:073B4C,100:00F5FF&height=100&section=footer" />
 
-<sub>END OF TRANSMISSION // KEEP BUILDING.</sub>
+<sub>END OF TRANSMISSION // MORE TO COME.</sub>
 
 </div>
