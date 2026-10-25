@@ -1,17 +1,33 @@
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=400&pause=1800&color=00F5FF&center=true&vCenter=true&width=950&height=90&lines=SANSKAR+MANDEKAR"
-  alt="Sanskar Mandekar typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=400&pause=1800&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Sanskar+Mandekar+%F0%9F%91%8B;I+build.+I+break.+I+improve.;Turning+ideas+into+reality." alt="Animated introduction" />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=250&pause=2500&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=CODE.+CREATE.+EVOLVE."
-  alt="Code. Create. Evolve. typing animation"
-/>
+<br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" alt="Futuristic coding animation" />
+
+# `>_` Sanskar Mandekar
+
+### CODE. CREATE. EVOLVE.
+
+*Building things, solving problems, and exploring what's possible.*
+
+<br/>
+
+<a href="https://github.com/sanskarM-dev">
+  <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=050816" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
+  <img src="https://img.shields.io/badge/LINKEDIN-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+<a href="mailto:mandekarsanskar062@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-00D6A3?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email"/>
+</a>
 
 </div>
+
+
 
 
 ---
