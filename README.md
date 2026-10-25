@@ -1,5 +1,5 @@
 
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=400&pause=1800&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Sanskar+Mandekar+%F0%9F%91%8B;I+build.+I+break.+I+improve.;Turning+ideas+into+reality." alt="Animated introduction" />
 
@@ -15,6 +15,9 @@
 
 <br/>
 
+<a href="https://sanskar-portfolio-two.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-00F5FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio Website"/>
+</a>
 <a href="https://github.com/sanskarM-dev">
   <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=050816" alt="GitHub"/>
 </a>
@@ -26,9 +29,6 @@
 </a>
 
 </div>
-
-
-
 
 ---
 
@@ -74,16 +74,20 @@ I enjoy exploring new concepts, experimenting with code, and turning what I lear
 
 <div align="center">
 
+<a href="https://sanskar-portfolio-two.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-07111F?style=for-the-badge&logo=vercel&logoColor=00F5FF" alt="Visit Portfolio" />
+</a>
+
 <a href="https://github.com/sanskarM-dev">
-<img src="https://img.shields.io/badge/GITHUB-sanskarM--dev-07111F?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/GITHUB-sanskarM--dev-07111F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub Profile" />
 </a>
 
 <a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=8B9DFF" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=8B9DFF" alt="LinkedIn" />
 </a>
 
 <a href="mailto:mandekarsanskar062@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-07111F?style=for-the-badge&logo=gmail&logoColor=00D6A3" />
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-07111F?style=for-the-badge&logo=gmail&logoColor=00D6A3" alt="Email" />
 </a>
 
 <br/><br/>
