@@ -1,4 +1,3 @@
-
  <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=400&pause=1800&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Sanskar+Mandekar+%F0%9F%91%8B;I+build.+I+break.+I+improve.;Turning+ideas+into+reality." alt="Animated introduction" />
@@ -16,7 +15,7 @@
 <br/>
 
 <a href="https://sanskar-portfolio-two.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-00F5FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio Website"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio"/>
 </a>
 <a href="https://github.com/sanskarM-dev">
   <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=050816" alt="GitHub"/>
@@ -24,7 +23,7 @@
 <a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
   <img src="https://img.shields.io/badge/LINKEDIN-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
-<a href="mailto:mandekarsanskar062@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mandekarsanskar062@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-00D6A3?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email"/>
 </a>
 
@@ -68,29 +67,7 @@ I enjoy exploring new concepts, experimenting with code, and turning what I lear
 
 **Improve with every iteration.**
 
-</div>
-
-### `04` / ESTABLISH CONNECTION
-
-<div align="center">
-
-<a href="https://sanskar-portfolio-two.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-07111F?style=for-the-badge&logo=vercel&logoColor=00F5FF" alt="Visit Portfolio" />
-</a>
-
-<a href="https://github.com/sanskarM-dev">
-<img src="https://img.shields.io/badge/GITHUB-sanskarM--dev-07111F?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub Profile" />
-</a>
-
-<a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=8B9DFF" alt="LinkedIn" />
-</a>
-
-<a href="mailto:mandekarsanskar062@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-07111F?style=for-the-badge&logo=gmail&logoColor=00D6A3" alt="Email" />
-</a>
-
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:073B4C,100:00F5FF&height=100&section=footer" />
 
