@@ -23,9 +23,11 @@
 <a href="https://www.linkedin.com/in/sanskar-mandekar-9ab15a388/">
   <img src="https://img.shields.io/badge/LINKEDIN-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mandekarsanskar062@gmail.com">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mandekarsanskar062@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/EMAIL-00D6A3?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email"/>
 </a>
+
 
 </div>
 
