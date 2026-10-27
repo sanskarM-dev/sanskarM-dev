@@ -62,6 +62,19 @@ I enjoy exploring new concepts, experimenting with code, and turning what I lear
 
 </div>
 
+---
+
+### `04` / CONTRIBUTION SNAKE
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sanskarM-dev/sanskarM-dev/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake Animation"
+    width="100%"
+  />
+</div>
+
+
 ### `03` / THE PHILOSOPHY
 
 <div align="center">
