@@ -38,17 +38,21 @@ I'm interested in building things, solving problems, and understanding the techn
 
 I enjoy exploring new concepts, experimenting with code, and turning what I learn into practical skills.
 
+
 <details>
-<summary><b> $ cat /currently_learning.txt</b></summary>
+<summary><b>Mastering</b></summary>
 <br/>
 
-- Data structures and algorithms with C++
-- Full-stack web development
-- Backend engineering
-- Practical AI integrations
-- Software design and problem-solving
+- Data Structures & Algorithms with C++
+- Full-Stack Web Development (MERN)
+- Backend Engineering
+- AI Integration
+- System Design & Software Architecture
+- Problem-Solving & Competitive Programming
+- Building Real-World Projects
 
 </details>
+
 
 ### `02` / THE TOOLKIT
 
